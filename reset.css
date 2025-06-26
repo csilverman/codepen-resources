@@ -4,3 +4,7 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+html {
+  border: 1rem solid #f00 !important;
+}
